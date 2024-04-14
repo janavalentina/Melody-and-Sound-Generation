@@ -8,5 +8,5 @@ Then run `preprocess.py`
 Then run the respective cells in `music_vae.ipynb`
 
 
-# Melody generation
+# Melody Generation
 You can find related datasets from http://www.piano-midi.de
